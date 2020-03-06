@@ -1,5 +1,5 @@
 {
-    "name": "twilio/sdk",
+    "name": "iffifan/twilio-php",
     "type": "library",
     "description": "A PHP wrapper for Twilio's API",
     "keywords": ["twilio", "sms", "api"],
